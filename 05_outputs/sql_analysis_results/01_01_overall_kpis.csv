@@ -1,0 +1,2 @@
+raw_claim_rows,unique_claims,unique_patients,unique_providers,total_claim_amount,total_allowed_amount,total_paid_amount,avg_claim_amount
+75025,75000,18466,451,43652396.38,36452923.11,24719453.88,581.84

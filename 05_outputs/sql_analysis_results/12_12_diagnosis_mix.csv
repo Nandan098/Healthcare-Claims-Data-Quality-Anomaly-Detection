@@ -1,0 +1,26 @@
+Diagnosis_Code,Diagnosis_Name,Clinical_Group,claims,patients,avg_claim_amount,billed
+DX025,Other Condition,Other,9808,7251,618.39,6065150.76
+DX001,Essential Hypertension,Chronic,6428,5181,433.17,2784394.24
+DX004,Hyperlipidemia,Chronic,4983,4269,392.56,1956107.9
+DX003,Upper Respiratory Infection,Acute,4873,4126,432.42,2107160.7
+DX014,Fracture/Injury,Acute,4312,3753,1145.46,4939208.44
+DX002,Type 2 Diabetes,Chronic,4234,3671,349.48,1479713.76
+DX005,Low Back Pain,Musculoskeletal,3925,3449,770.05,3022446.34
+DX020,Gastroesophageal Reflux,Chronic,3544,3184,340.42,1206441.57
+DX022,Urinary Tract Infection,Acute,2907,2654,422.61,1228538.39
+DX015,Abdominal Pain,Acute,2864,2602,1010.65,2894512.85
+DX011,Depression,Behavioral Health,2714,2482,450.35,1222247.28
+DX006,Osteoarthritis,Musculoskeletal,2683,2446,964.96,2588988.16
+DX012,Anxiety Disorder,Behavioral Health,2632,2380,437.41,1151273.49
+DX013,Chronic Kidney Disease,Chronic,2319,2169,337.67,783047.83
+DX007,Coronary Artery Disease,Cardiovascular,2223,2053,559.24,1243195.91
+DX017,Cancer - Active Treatment,Oncology,2102,1971,757.1,1591423.92
+DX016,Pneumonia,Respiratory,1982,1862,532.99,1056377.04
+DX009,Asthma,Respiratory,1981,1855,446.95,885409.98
+DX008,Heart Failure,Cardiovascular,1960,1842,571.01,1119185.75
+DX021,Skin Infection,Acute,1636,1552,428.48,700992.63
+DX018,Pregnancy-Related,Obstetric,1358,1300,776.93,1055070.43
+DX023,Migraine,Neurologic,1116,1074,666.68,744019.28
+DX019,Neurologic Disorder,Neurologic,1020,978,642.54,655393.87
+DX010,COPD,Respiratory,784,769,784.35,614931.86
+DX024,Thyroid Disorder,Chronic,637,625,874.67,557164.0

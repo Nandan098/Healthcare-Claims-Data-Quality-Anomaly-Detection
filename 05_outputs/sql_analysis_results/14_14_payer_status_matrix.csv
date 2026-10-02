@@ -1,0 +1,36 @@
+Payer,Claim_Status,claims,payer_status_share_pct
+Commercial,Paid,16767,78.21
+Commercial,Denied,2170,10.12
+Commercial,Rejected,1163,5.42
+Commercial,Pending,1009,4.71
+Commercial,Reversed,329,1.53
+Medicaid,Paid,9490,77.92
+Medicaid,Denied,1273,10.45
+Medicaid,Rejected,718,5.9
+Medicaid,Pending,528,4.34
+Medicaid,Reversed,170,1.4
+Medicare,Paid,18212,78.12
+Medicare,Denied,2456,10.53
+Medicare,Rejected,1267,5.43
+Medicare,Pending,1033,4.43
+Medicare,Reversed,346,1.48
+Medicare Advantage,Paid,7790,78.0
+Medicare Advantage,Denied,1027,10.28
+Medicare Advantage,Rejected,556,5.57
+Medicare Advantage,Pending,463,4.64
+Medicare Advantage,Reversed,151,1.51
+Other,Paid,1232,78.82
+Other,Denied,162,10.36
+Other,Rejected,83,5.31
+Other,Pending,66,4.22
+Other,Reversed,20,1.28
+Self-Pay,Paid,3963,76.95
+Self-Pay,Denied,580,11.26
+Self-Pay,Rejected,283,5.5
+Self-Pay,Pending,237,4.6
+Self-Pay,Reversed,87,1.69
+Workers Comp,Paid,1099,78.84
+Workers Comp,Denied,136,9.76
+Workers Comp,Rejected,76,5.45
+Workers Comp,Pending,63,4.52
+Workers Comp,Reversed,20,1.43

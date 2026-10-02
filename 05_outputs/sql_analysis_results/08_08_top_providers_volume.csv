@@ -1,0 +1,21 @@
+Provider_ID,Provider_Display_Name,Specialty,claims,billed,avg_claim_amount
+DR0386,Provider_0386,Family Medicine,1921,459048.61,238.96
+DR0035,Provider_0035,Other,1552,1322384.35,852.05
+DR0240,Provider_0240,Pediatrics,899,199664.02,222.1
+DR0242,Provider_0242,General Surgery,823,2035447.89,2473.21
+DR0081,Provider_0081,Internal Medicine,761,195124.97,256.41
+DR0112,Provider_0112,Internal Medicine,740,183594.12,248.1
+DR0372,Provider_0372,Emergency Medicine,695,314864.14,453.04
+DR0282,Provider_0282,Family Medicine,672,156076.92,232.26
+DR0209,Provider_0209,Emergency Medicine,646,306854.57,475.01
+DR0404,Provider_0404,Orthopedics,626,828738.56,1323.86
+DR0131,Provider_0131,Neurology,573,264476.76,461.57
+DR0336,Provider_0336,Family Medicine,519,106110.56,204.45
+DR0062,Provider_0062,Internal Medicine,508,117389.22,231.08
+DR0332,Provider_0332,Cardiology,506,216421.95,427.71
+DR0397,Provider_0397,Pediatrics,501,117161.4,233.86
+DR0206,Provider_0206,Radiology,500,301362.99,602.73
+DR0265,Provider_0265,Cardiology,498,252288.18,506.6
+DR0302,Provider_0302,Internal Medicine,487,102982.27,211.46
+DR0031,Provider_0031,Oncology,486,366606.75,754.33
+DR0374,Provider_0374,General Surgery,479,1033170.16,2156.93

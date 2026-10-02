@@ -1,0 +1,8 @@
+Payer,total_claims,denied_rejected,denial_rejection_rate_pct
+Self-Pay,5150,863,16.76
+Medicaid,12179,1991,16.35
+Medicare,23314,3723,15.97
+Medicare Advantage,9987,1583,15.85
+Other,1563,245,15.67
+Commercial,21438,3333,15.55
+Workers Comp,1394,212,15.21

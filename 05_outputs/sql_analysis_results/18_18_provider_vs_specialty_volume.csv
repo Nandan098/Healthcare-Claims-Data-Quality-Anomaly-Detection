@@ -1,0 +1,404 @@
+Provider_ID,Specialty,claims,specialty_avg_claims,volume_vs_peer_ratio
+DR0386,Family Medicine,1921,182.4,10.53
+DR0035,Other,1552,162.2,9.57
+DR0240,Pediatrics,899,160.9,5.59
+DR0081,Internal Medicine,761,164.3,4.63
+DR0112,Internal Medicine,740,164.3,4.5
+DR0372,Emergency Medicine,695,161.7,4.3
+DR0242,General Surgery,823,199.2,4.13
+DR0209,Emergency Medicine,646,161.7,4.0
+DR0131,Neurology,573,146.3,3.92
+DR0282,Family Medicine,672,182.4,3.68
+DR0206,Radiology,500,137.7,3.63
+DR0031,Oncology,486,148.3,3.28
+DR0186,Obstetrics & Gynecology,437,133.8,3.27
+DR0397,Pediatrics,501,160.9,3.11
+DR0062,Internal Medicine,508,164.3,3.09
+DR0404,Orthopedics,626,205.5,3.05
+DR0302,Internal Medicine,487,164.3,2.96
+DR0332,Cardiology,506,170.7,2.96
+DR0265,Cardiology,498,170.7,2.92
+DR0336,Family Medicine,519,182.4,2.84
+DR0076,Pediatrics,444,160.9,2.76
+DR0103,Neurology,385,146.3,2.63
+DR0226,Family Medicine,467,182.4,2.56
+DR0003,Emergency Medicine,406,161.7,2.51
+DR0382,Pediatrics,404,160.9,2.51
+DR0283,Other,406,162.2,2.5
+DR0093,Internal Medicine,396,164.3,2.41
+DR0374,General Surgery,479,199.2,2.4
+DR0173,Family Medicine,435,182.4,2.38
+DR0443,Family Medicine,433,182.4,2.37
+DR0337,Family Medicine,425,182.4,2.33
+DR0189,Oncology,344,148.3,2.32
+DR0229,Emergency Medicine,374,161.7,2.31
+DR0263,Orthopedics,475,205.5,2.31
+DR0363,Internal Medicine,379,164.3,2.31
+DR0281,Obstetrics & Gynecology,305,133.8,2.28
+DR0183,Other,350,162.2,2.16
+DR0416,Orthopedics,444,205.5,2.16
+DR0431,Internal Medicine,355,164.3,2.16
+DR0288,Cardiology,365,170.7,2.14
+DR0428,Internal Medicine,351,164.3,2.14
+DR0089,Pediatrics,335,160.9,2.08
+DR0318,Orthopedics,424,205.5,2.06
+DR0356,Obstetrics & Gynecology,269,133.8,2.01
+DR0301,Cardiology,341,170.7,2.0
+DR0082,Oncology,291,148.3,1.96
+DR0162,Pediatrics,309,160.9,1.92
+DR0245,Other,312,162.2,1.92
+DR0325,Other,308,162.2,1.9
+DR0438,Emergency Medicine,292,161.7,1.81
+DR0437,Other,292,162.2,1.8
+DR0160,Family Medicine,326,182.4,1.79
+DR0027,Other,288,162.2,1.78
+DR0269,Other,289,162.2,1.78
+DR0407,Internal Medicine,291,164.3,1.77
+DR0009,Obstetrics & Gynecology,236,133.8,1.76
+DR0251,Internal Medicine,288,164.3,1.75
+DR0199,Family Medicine,314,182.4,1.72
+DR0052,General Surgery,340,199.2,1.71
+DR0085,Obstetrics & Gynecology,229,133.8,1.71
+DR0331,Cardiology,292,170.7,1.71
+DR0338,Neurology,250,146.3,1.71
+DR0070,Emergency Medicine,275,161.7,1.7
+DR0139,Internal Medicine,278,164.3,1.69
+DR0013,Oncology,248,148.3,1.67
+DR0006,Orthopedics,335,205.5,1.63
+DR0102,Oncology,242,148.3,1.63
+DR0216,Radiology,225,137.7,1.63
+DR0021,Emergency Medicine,261,161.7,1.61
+DR0311,Orthopedics,331,205.5,1.61
+DR0084,Family Medicine,292,182.4,1.6
+DR0235,Family Medicine,292,182.4,1.6
+DR0354,Family Medicine,291,182.4,1.6
+DR0244,Emergency Medicine,257,161.7,1.59
+DR0224,Emergency Medicine,253,161.7,1.57
+DR0202,Internal Medicine,255,164.3,1.55
+DR0177,Emergency Medicine,247,161.7,1.53
+DR0393,Emergency Medicine,248,161.7,1.53
+DR0126,Emergency Medicine,246,161.7,1.52
+DR0170,Internal Medicine,250,164.3,1.52
+DR0299,Other,246,162.2,1.52
+DR0312,Oncology,224,148.3,1.51
+DR0107,Cardiology,256,170.7,1.5
+DR0419,Orthopedics,308,205.5,1.5
+DR0307,Pediatrics,239,160.9,1.49
+DR0083,Internal Medicine,242,164.3,1.47
+DR0068,Emergency Medicine,236,161.7,1.46
+DR0342,Other,235,162.2,1.45
+DR0079,Internal Medicine,237,164.3,1.44
+DR0034,Radiology,197,137.7,1.43
+DR0380,Family Medicine,261,182.4,1.43
+DR0187,Other,231,162.2,1.42
+DR0148,Family Medicine,256,182.4,1.4
+DR0357,Radiology,193,137.7,1.4
+DR0291,Other,226,162.2,1.39
+DR0300,Cardiology,238,170.7,1.39
+DR0191,Family Medicine,250,182.4,1.37
+DR0090,General Surgery,270,199.2,1.36
+DR0144,Cardiology,232,170.7,1.36
+DR0161,Family Medicine,248,182.4,1.36
+DR0220,Radiology,187,137.7,1.36
+DR0303,Family Medicine,248,182.4,1.36
+DR0267,Oncology,200,148.3,1.35
+DR0410,Cardiology,231,170.7,1.35
+DR0417,Cardiology,230,170.7,1.35
+DR0088,Family Medicine,244,182.4,1.34
+DR0381,Other,218,162.2,1.34
+DR0409,Emergency Medicine,217,161.7,1.34
+DR0038,Family Medicine,239,182.4,1.31
+DR0066,Internal Medicine,215,164.3,1.31
+DR0159,Cardiology,221,170.7,1.29
+DR0271,Emergency Medicine,208,161.7,1.29
+DR0163,Orthopedics,264,205.5,1.28
+DR0176,Other,207,162.2,1.28
+DR0025,Emergency Medicine,206,161.7,1.27
+DR0115,Emergency Medicine,203,161.7,1.26
+DR0178,Oncology,186,148.3,1.25
+DR0375,Emergency Medicine,200,161.7,1.24
+DR0243,Internal Medicine,202,164.3,1.23
+DR0175,Internal Medicine,200,164.3,1.22
+DR0137,Emergency Medicine,195,161.7,1.21
+DR0201,Orthopedics,248,205.5,1.21
+DR0228,Internal Medicine,199,164.3,1.21
+DR0048,Family Medicine,218,182.4,1.19
+DR0014,Other,190,162.2,1.17
+DR0078,Other,188,162.2,1.16
+DR0352,Orthopedics,238,205.5,1.16
+DR0197,Pediatrics,185,160.9,1.15
+DR0264,Internal Medicine,189,164.3,1.15
+DR0156,Internal Medicine,186,164.3,1.13
+DR0275,Internal Medicine,184,164.3,1.12
+DR0019,Internal Medicine,183,164.3,1.11
+DR0111,Emergency Medicine,180,161.7,1.11
+DR0360,Cardiology,189,170.7,1.11
+DR0016,Internal Medicine,181,164.3,1.1
+DR0028,Pediatrics,177,160.9,1.1
+DR0344,Internal Medicine,181,164.3,1.1
+DR0057,Emergency Medicine,177,161.7,1.09
+DR0305,Emergency Medicine,176,161.7,1.09
+DR0104,Internal Medicine,177,164.3,1.08
+DR0286,Internal Medicine,178,164.3,1.08
+DR0430,Radiology,149,137.7,1.08
+DR0026,Family Medicine,193,182.4,1.06
+DR0261,Internal Medicine,174,164.3,1.06
+DR0158,Family Medicine,191,182.4,1.05
+DR0349,Cardiology,180,170.7,1.05
+DR0433,Other,171,162.2,1.05
+DR0029,Obstetrics & Gynecology,136,133.8,1.02
+DR0114,Radiology,140,137.7,1.02
+DR0290,Radiology,140,137.7,1.02
+DR0086,Radiology,139,137.7,1.01
+DR0257,Other,164,162.2,1.01
+DR0405,Family Medicine,185,182.4,1.01
+DR0253,Obstetrics & Gynecology,134,133.8,1.0
+DR0402,Neurology,146,146.3,1.0
+DR0032,Neurology,143,146.3,0.98
+DR0046,Emergency Medicine,157,161.7,0.97
+DR0108,Pediatrics,156,160.9,0.97
+DR0227,Emergency Medicine,157,161.7,0.97
+DR0361,Neurology,142,146.3,0.97
+DR0403,Family Medicine,177,182.4,0.97
+DR0140,Cardiology,164,170.7,0.96
+DR0339,Internal Medicine,154,164.3,0.94
+DR0071,Emergency Medicine,151,161.7,0.93
+DR0145,Emergency Medicine,150,161.7,0.93
+DR0147,Internal Medicine,153,164.3,0.93
+DR0194,Oncology,138,148.3,0.93
+DR0259,Orthopedics,191,205.5,0.93
+DR0152,Other,149,162.2,0.92
+DR0313,Cardiology,157,170.7,0.92
+DR0415,Radiology,127,137.7,0.92
+DR0023,Radiology,124,137.7,0.9
+DR0060,Pediatrics,144,160.9,0.9
+DR0446,Family Medicine,165,182.4,0.9
+DR0401,Emergency Medicine,144,161.7,0.89
+DR0135,Other,143,162.2,0.88
+DR0395,Pediatrics,141,160.9,0.88
+DR0442,Other,143,162.2,0.88
+DR0153,Orthopedics,178,205.5,0.87
+DR0184,Other,141,162.2,0.87
+DR0185,Emergency Medicine,141,161.7,0.87
+DR0425,Family Medicine,158,182.4,0.87
+DR0214,Pediatrics,139,160.9,0.86
+DR0376,Orthopedics,177,205.5,0.86
+DR0059,Emergency Medicine,138,161.7,0.85
+DR0180,Pediatrics,136,160.9,0.85
+DR0368,Oncology,126,148.3,0.85
+DR0412,Pediatrics,136,160.9,0.85
+DR0018,Emergency Medicine,136,161.7,0.84
+DR0125,Neurology,123,146.3,0.84
+DR0128,Emergency Medicine,136,161.7,0.84
+DR0221,General Surgery,167,199.2,0.84
+DR0211,Family Medicine,149,182.4,0.82
+DR0427,Internal Medicine,135,164.3,0.82
+DR0439,Emergency Medicine,132,161.7,0.82
+DR0109,Neurology,118,146.3,0.81
+DR0065,Emergency Medicine,129,161.7,0.8
+DR0133,Cardiology,135,170.7,0.79
+DR0241,Orthopedics,162,205.5,0.79
+DR0249,Family Medicine,145,182.4,0.79
+DR0250,Orthopedics,163,205.5,0.79
+DR0335,Emergency Medicine,127,161.7,0.79
+DR0113,Obstetrics & Gynecology,104,133.8,0.78
+DR0077,Internal Medicine,126,164.3,0.77
+DR0398,Internal Medicine,127,164.3,0.77
+DR0450,Cardiology,130,170.7,0.76
+DR0047,Oncology,111,148.3,0.75
+DR0151,Emergency Medicine,121,161.7,0.75
+DR0262,Emergency Medicine,122,161.7,0.75
+DR0117,Obstetrics & Gynecology,99,133.8,0.74
+DR0196,Orthopedics,152,205.5,0.74
+DR0285,Internal Medicine,122,164.3,0.74
+DR0166,Cardiology,125,170.7,0.73
+DR0355,Internal Medicine,120,164.3,0.73
+DR0413,Family Medicine,133,182.4,0.73
+DR0440,Oncology,109,148.3,0.73
+DR0136,Internal Medicine,119,164.3,0.72
+DR0225,Radiology,99,137.7,0.72
+DR0435,Other,116,162.2,0.72
+DR0198,Pediatrics,115,160.9,0.71
+DR0278,Emergency Medicine,115,161.7,0.71
+DR0434,Family Medicine,129,182.4,0.71
+DR0110,Internal Medicine,115,164.3,0.7
+DR0143,Internal Medicine,115,164.3,0.7
+DR0341,Obstetrics & Gynecology,94,133.8,0.7
+DR0366,Obstetrics & Gynecology,94,133.8,0.7
+DR0367,Family Medicine,128,182.4,0.7
+DR0378,Pediatrics,113,160.9,0.7
+DR0022,Family Medicine,125,182.4,0.69
+DR0232,Family Medicine,126,182.4,0.69
+DR0343,Oncology,103,148.3,0.69
+DR0345,Internal Medicine,114,164.3,0.69
+DR0098,Obstetrics & Gynecology,91,133.8,0.68
+DR0141,Other,110,162.2,0.68
+DR0280,Internal Medicine,112,164.3,0.68
+DR0030,Cardiology,114,170.7,0.67
+DR0200,Other,108,162.2,0.67
+DR0218,General Surgery,134,199.2,0.67
+DR0324,Oncology,100,148.3,0.67
+DR0042,Pediatrics,106,160.9,0.66
+DR0132,Oncology,98,148.3,0.66
+DR0316,Neurology,97,146.3,0.66
+DR0020,Obstetrics & Gynecology,87,133.8,0.65
+DR0040,Other,105,162.2,0.65
+DR0045,Family Medicine,119,182.4,0.65
+DR0248,Family Medicine,118,182.4,0.65
+DR0294,Orthopedics,134,205.5,0.65
+DR0217,Pediatrics,103,160.9,0.64
+DR0389,Emergency Medicine,104,161.7,0.64
+DR0007,Pediatrics,102,160.9,0.63
+DR0118,Internal Medicine,104,164.3,0.63
+DR0157,Internal Medicine,104,164.3,0.63
+DR0231,Internal Medicine,104,164.3,0.63
+DR0247,Emergency Medicine,102,161.7,0.63
+DR0287,Emergency Medicine,102,161.7,0.63
+DR0049,Radiology,86,137.7,0.62
+DR0233,Other,101,162.2,0.62
+DR0054,Other,99,162.2,0.61
+DR0058,Internal Medicine,101,164.3,0.61
+DR0063,Radiology,84,137.7,0.61
+DR0327,Oncology,88,148.3,0.59
+DR0123,Family Medicine,106,182.4,0.58
+DR0168,Cardiology,99,170.7,0.58
+DR0204,Family Medicine,105,182.4,0.58
+DR0329,Other,94,162.2,0.58
+DR0370,Internal Medicine,96,164.3,0.58
+DR0236,Cardiology,98,170.7,0.57
+DR0296,Other,93,162.2,0.57
+DR0394,Neurology,83,146.3,0.57
+DR0017,Internal Medicine,92,164.3,0.56
+DR0036,Emergency Medicine,90,161.7,0.56
+DR0061,Family Medicine,103,182.4,0.56
+DR0258,Family Medicine,102,182.4,0.56
+DR0215,General Surgery,110,199.2,0.55
+DR0116,Emergency Medicine,87,161.7,0.54
+DR0188,Orthopedics,110,205.5,0.54
+DR0270,Radiology,75,137.7,0.54
+DR0279,Radiology,74,137.7,0.54
+DR0362,Internal Medicine,88,164.3,0.54
+DR0400,Other,87,162.2,0.54
+DR0423,Pediatrics,87,160.9,0.54
+DR0067,Family Medicine,96,182.4,0.53
+DR0122,Pediatrics,85,160.9,0.53
+DR0277,Pediatrics,86,160.9,0.53
+DR0297,Internal Medicine,87,164.3,0.53
+DR0441,Cardiology,90,170.7,0.53
+DR0064,Family Medicine,95,182.4,0.52
+DR0171,Family Medicine,94,182.4,0.52
+DR0289,Other,85,162.2,0.52
+DR0321,Pediatrics,83,160.9,0.52
+DR0333,Pediatrics,84,160.9,0.52
+DR0390,Oncology,77,148.3,0.52
+DR0005,Emergency Medicine,82,161.7,0.51
+DR0255,Internal Medicine,83,164.3,0.51
+DR0350,General Surgery,102,199.2,0.51
+DR0371,Internal Medicine,83,164.3,0.51
+DR0447,Other,83,162.2,0.51
+DR0037,Oncology,74,148.3,0.5
+DR0210,Cardiology,86,170.7,0.5
+DR0340,Pediatrics,80,160.9,0.5
+DR0351,Family Medicine,91,182.4,0.5
+DR0424,Family Medicine,91,182.4,0.5
+DR0074,Pediatrics,79,160.9,0.49
+DR0129,Obstetrics & Gynecology,65,133.8,0.49
+DR0154,Obstetrics & Gynecology,66,133.8,0.49
+DR0179,Cardiology,84,170.7,0.49
+DR0314,Orthopedics,101,205.5,0.49
+DR0385,Emergency Medicine,79,161.7,0.49
+DR0388,General Surgery,98,199.2,0.49
+DR0436,Family Medicine,89,182.4,0.49
+DR0445,Neurology,71,146.3,0.49
+DR0033,Internal Medicine,79,164.3,0.48
+DR0069,Internal Medicine,79,164.3,0.48
+DR0099,Cardiology,82,170.7,0.48
+DR0190,Internal Medicine,79,164.3,0.48
+DR0353,Radiology,66,137.7,0.48
+DR0392,Internal Medicine,79,164.3,0.48
+DR0001,Family Medicine,85,182.4,0.47
+DR0039,Internal Medicine,77,164.3,0.47
+DR0105,General Surgery,94,199.2,0.47
+DR0309,Other,76,162.2,0.47
+DR0383,Other,77,162.2,0.47
+DR0096,Cardiology,79,170.7,0.46
+DR0101,Cardiology,78,170.7,0.46
+DR0181,Orthopedics,95,205.5,0.46
+DR0195,Other,74,162.2,0.46
+DR0369,Emergency Medicine,75,161.7,0.46
+DR0015,Orthopedics,93,205.5,0.45
+DR0080,Family Medicine,82,182.4,0.45
+DR0164,Family Medicine,83,182.4,0.45
+DR0292,Oncology,67,148.3,0.45
+DR0408,Emergency Medicine,72,161.7,0.45
+DR0008,Family Medicine,80,182.4,0.44
+DR0260,Internal Medicine,72,164.3,0.44
+DR0391,Family Medicine,80,182.4,0.44
+DR0420,Family Medicine,80,182.4,0.44
+DR0043,Cardiology,73,170.7,0.43
+DR0055,Other,69,162.2,0.43
+DR0172,Radiology,59,137.7,0.43
+DR0213,Other,70,162.2,0.43
+DR0310,Cardiology,74,170.7,0.43
+DR0387,Pediatrics,69,160.9,0.43
+DR0238,Family Medicine,77,182.4,0.42
+DR0346,Orthopedics,86,205.5,0.42
+DR0127,Neurology,60,146.3,0.41
+DR0237,Obstetrics & Gynecology,53,133.8,0.4
+DR0274,Oncology,60,148.3,0.4
+DR0358,Pediatrics,65,160.9,0.4
+DR0432,Neurology,58,146.3,0.4
+DR0167,Cardiology,67,170.7,0.39
+DR0334,Other,63,162.2,0.39
+DR0192,Obstetrics & Gynecology,51,133.8,0.38
+DR0379,Radiology,53,137.7,0.38
+DR0406,Family Medicine,69,182.4,0.38
+DR0422,Orthopedics,79,205.5,0.38
+DR0002,Obstetrics & Gynecology,50,133.8,0.37
+DR0075,Emergency Medicine,60,161.7,0.37
+DR0121,Pediatrics,60,160.9,0.37
+DR0150,Other,60,162.2,0.37
+DR0268,Family Medicine,67,182.4,0.37
+DR0284,Internal Medicine,60,164.3,0.37
+DR0348,Internal Medicine,61,164.3,0.37
+DR0010,Orthopedics,73,205.5,0.36
+DR0193,Other,58,162.2,0.36
+DR0222,Pediatrics,58,160.9,0.36
+DR0234,Orthopedics,75,205.5,0.36
+DR0276,Other,59,162.2,0.36
+DR0293,Oncology,53,148.3,0.36
+DR0295,Internal Medicine,59,164.3,0.36
+DR0306,Oncology,53,148.3,0.36
+DR0328,Emergency Medicine,58,161.7,0.36
+DR0347,Family Medicine,65,182.4,0.36
+DR0426,Emergency Medicine,59,161.7,0.36
+DR0444,Emergency Medicine,58,161.7,0.36
+DR0449,Emergency Medicine,58,161.7,0.36
+DR0051,Family Medicine,64,182.4,0.35
+DR0120,Internal Medicine,57,164.3,0.35
+DR0252,Pediatrics,57,160.9,0.35
+DR0149,Other,55,162.2,0.34
+DR0246,Orthopedics,69,205.5,0.34
+DR0315,Internal Medicine,56,164.3,0.34
+DR0323,Family Medicine,62,182.4,0.34
+DR0330,Family Medicine,62,182.4,0.34
+DR0004,Family Medicine,60,182.4,0.33
+DR0169,Family Medicine,60,182.4,0.33
+DR0223,Internal Medicine,55,164.3,0.33
+DR0317,Emergency Medicine,53,161.7,0.33
+DR0050,Emergency Medicine,51,161.7,0.32
+DR0056,Internal Medicine,52,164.3,0.32
+DR0203,Internal Medicine,53,164.3,0.32
+DR0266,Emergency Medicine,52,161.7,0.32
+DR0298,Family Medicine,59,182.4,0.32
+DR0326,Family Medicine,59,182.4,0.32
+DR0365,Other,52,162.2,0.32
+DR0421,Internal Medicine,52,164.3,0.32
+DR0272,Internal Medicine,51,164.3,0.31
+DR0319,Orthopedics,64,205.5,0.31
+DR0106,Internal Medicine,50,164.3,0.3
+DR0130,General Surgery,59,199.2,0.3
+DR0155,Family Medicine,55,182.4,0.3
+DR0377,Family Medicine,54,182.4,0.3
+DR0448,Orthopedics,60,205.5,0.29
+DR0429,Family Medicine,50,182.4,0.27

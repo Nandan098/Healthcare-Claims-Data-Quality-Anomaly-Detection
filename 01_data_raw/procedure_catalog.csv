@@ -1,0 +1,26 @@
+Procedure_Code,Procedure_Name,Procedure_Group,Synthetic_Prevalence_Weight,Typical_Min_Charge,Typical_Max_Charge
+PR001,Office/Follow-up Visit,Professional,0.145,120,550
+PR002,Emergency Department Visit,Emergency,0.07,350,2500
+PR003,Routine Lab Panel,Diagnostic,0.08,30,180
+PR004,Advanced Imaging - CT,Diagnostic,0.03,450,4500
+PR005,MRI,Diagnostic,0.018,700,6000
+PR006,X-Ray,Diagnostic,0.055,50,450
+PR007,Ultrasound,Diagnostic,0.025,110,900
+PR008,Physical Therapy Session,Therapy,0.045,75,350
+PR009,Joint Injection,Procedure,0.02,180,1200
+PR010,Colonoscopy,Procedure,0.01,900,5000
+PR011,Cardiac Stress Test,Diagnostic,0.012,250,1800
+PR012,Echocardiogram,Diagnostic,0.018,250,2200
+PR013,Cataract Procedure,Surgery,0.008,1400,8500
+PR014,Minor Skin Procedure,Procedure,0.02,120,900
+PR015,Major Surgery,Surgery,0.008,3500,30000
+PR016,Inpatient Daily Care,Inpatient,0.055,450,7000
+PR017,Chemotherapy Administration,Oncology,0.01,550,9000
+PR018,Radiation Therapy,Oncology,0.009,450,7500
+PR019,Maternity Delivery,Obstetric,0.012,1700,9500
+PR020,Specialist Consultation,Professional,0.06,160,850
+PR021,Behavioral Health Session,Behavioral,0.038,120,650
+PR022,Dialysis Session,Chronic Care,0.012,300,1800
+PR023,Ambulance Transport,Emergency,0.006,500,4500
+PR024,Home Health Visit,Home Health,0.012,90,650
+PR025,Other Clinical Service,Other,0.142,80,1500

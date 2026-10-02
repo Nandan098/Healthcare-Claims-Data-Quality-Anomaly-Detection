@@ -1,0 +1,18 @@
+Payer,Claim_Type,missing_provider_claims
+Medicare,Professional,24
+Commercial,Professional,23
+Medicare,Outpatient,17
+Medicaid,Professional,14
+Medicare,Inpatient,9
+Medicaid,Outpatient,8
+Medicare Advantage,Professional,8
+Other,Professional,7
+Medicare Advantage,Inpatient,6
+Medicare Advantage,Outpatient,6
+Self-Pay,Professional,5
+Commercial,Outpatient,4
+Self-Pay,Outpatient,4
+Commercial,Inpatient,3
+Self-Pay,Inpatient,3
+Medicaid,Inpatient,2
+Workers Comp,Professional,1

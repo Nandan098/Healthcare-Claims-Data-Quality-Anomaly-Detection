@@ -1,0 +1,26 @@
+Diagnosis_Code,Diagnosis_Name,Clinical_Group,Synthetic_Prevalence_Weight
+DX001,Essential Hypertension,Chronic,0.09
+DX002,Type 2 Diabetes,Chronic,0.07
+DX003,Upper Respiratory Infection,Acute,0.065
+DX004,Hyperlipidemia,Chronic,0.055
+DX005,Low Back Pain,Musculoskeletal,0.05
+DX006,Osteoarthritis,Musculoskeletal,0.045
+DX007,Coronary Artery Disease,Cardiovascular,0.04
+DX008,Heart Failure,Cardiovascular,0.028
+DX009,Asthma,Respiratory,0.035
+DX010,COPD,Respiratory,0.025
+DX011,Depression,Behavioral Health,0.04
+DX012,Anxiety Disorder,Behavioral Health,0.035
+DX013,Chronic Kidney Disease,Chronic,0.022
+DX014,Fracture/Injury,Acute,0.028
+DX015,Abdominal Pain,Acute,0.03
+DX016,Pneumonia,Respiratory,0.022
+DX017,Cancer - Active Treatment,Oncology,0.018
+DX018,Pregnancy-Related,Obstetric,0.018
+DX019,Neurologic Disorder,Neurologic,0.017
+DX020,Gastroesophageal Reflux,Chronic,0.024
+DX021,Skin Infection,Acute,0.018
+DX022,Urinary Tract Infection,Acute,0.022
+DX023,Migraine,Neurologic,0.018
+DX024,Thyroid Disorder,Chronic,0.017
+DX025,Other Condition,Other,0.1

@@ -1,0 +1,8 @@
+Payer,claims,avg_member_responsibility,member_share_pct
+Self-Pay,5150,98.92,20.36
+Other,1563,54.09,9.87
+Commercial,21438,29.33,6.18
+Medicare Advantage,9987,26.36,5.31
+Medicare,23314,22.13,4.5
+Workers Comp,1394,12.67,2.75
+Medicaid,12179,4.66,0.97

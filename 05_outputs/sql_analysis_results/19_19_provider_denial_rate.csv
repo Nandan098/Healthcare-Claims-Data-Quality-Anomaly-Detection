@@ -1,0 +1,258 @@
+Provider_ID,Provider_Display_Name,Specialty,claims,denied_rejected,denial_rejection_rate_pct
+DR0071,Provider_0071,Emergency Medicine,151,40,26.49
+DR0440,Provider_0440,Oncology,109,27,24.77
+DR0231,Provider_0231,Internal Medicine,104,25,24.04
+DR0047,Provider_0047,Oncology,111,26,23.42
+DR0059,Provider_0059,Emergency Medicine,138,32,23.19
+DR0140,Provider_0140,Cardiology,164,38,23.17
+DR0204,Provider_0204,Family Medicine,105,24,22.86
+DR0427,Provider_0427,Internal Medicine,135,30,22.22
+DR0280,Provider_0280,Internal Medicine,112,24,21.43
+DR0184,Provider_0184,Other,141,30,21.28
+DR0090,Provider_0090,General Surgery,270,57,21.11
+DR0133,Provider_0133,Cardiology,135,28,20.74
+DR0115,Provider_0115,Emergency Medicine,203,42,20.69
+DR0197,Provider_0197,Pediatrics,185,38,20.54
+DR0382,Provider_0382,Pediatrics,404,83,20.54
+DR0076,Provider_0076,Pediatrics,444,91,20.5
+DR0356,Provider_0356,Obstetrics & Gynecology,269,55,20.45
+DR0257,Provider_0257,Other,164,33,20.12
+DR0178,Provider_0178,Oncology,186,37,19.89
+DR0395,Provider_0395,Pediatrics,141,28,19.86
+DR0285,Provider_0285,Internal Medicine,122,24,19.67
+DR0413,Provider_0413,Family Medicine,133,26,19.55
+DR0206,Provider_0206,Radiology,500,97,19.4
+DR0065,Provider_0065,Emergency Medicine,129,25,19.38
+DR0281,Provider_0281,Obstetrics & Gynecology,305,59,19.34
+DR0022,Provider_0022,Family Medicine,125,24,19.2
+DR0338,Provider_0338,Neurology,250,48,19.2
+DR0019,Provider_0019,Internal Medicine,183,35,19.13
+DR0199,Provider_0199,Family Medicine,314,60,19.11
+DR0123,Provider_0123,Family Medicine,106,20,18.87
+DR0194,Provider_0194,Oncology,138,26,18.84
+DR0235,Provider_0235,Family Medicine,292,55,18.84
+DR0339,Provider_0339,Internal Medicine,154,29,18.83
+DR0243,Provider_0243,Internal Medicine,202,38,18.81
+DR0016,Provider_0016,Internal Medicine,181,34,18.78
+DR0125,Provider_0125,Neurology,123,23,18.7
+DR0294,Provider_0294,Orthopedics,134,25,18.66
+DR0403,Provider_0403,Family Medicine,177,33,18.64
+DR0245,Provider_0245,Other,312,58,18.59
+DR0378,Provider_0378,Pediatrics,113,21,18.58
+DR0162,Provider_0162,Pediatrics,309,57,18.45
+DR0217,Provider_0217,Pediatrics,103,19,18.45
+DR0030,Provider_0030,Cardiology,114,21,18.42
+DR0307,Provider_0307,Pediatrics,239,44,18.41
+DR0176,Provider_0176,Other,207,38,18.36
+DR0425,Provider_0425,Family Medicine,158,29,18.35
+DR0349,Provider_0349,Cardiology,180,33,18.33
+DR0151,Provider_0151,Emergency Medicine,121,22,18.18
+DR0357,Provider_0357,Radiology,193,35,18.13
+DR0430,Provider_0430,Radiology,149,27,18.12
+DR0062,Provider_0062,Internal Medicine,508,92,18.11
+DR0335,Provider_0335,Emergency Medicine,127,23,18.11
+DR0360,Provider_0360,Cardiology,189,34,17.99
+DR0283,Provider_0283,Other,406,73,17.98
+DR0286,Provider_0286,Internal Medicine,178,32,17.98
+DR0148,Provider_0148,Family Medicine,256,46,17.97
+DR0052,Provider_0052,General Surgery,340,61,17.94
+DR0405,Provider_0405,Family Medicine,185,33,17.84
+DR0417,Provider_0417,Cardiology,230,41,17.83
+DR0109,Provider_0109,Neurology,118,21,17.8
+DR0196,Provider_0196,Orthopedics,152,27,17.76
+DR0189,Provider_0189,Oncology,344,61,17.73
+DR0136,Provider_0136,Internal Medicine,119,21,17.65
+DR0287,Provider_0287,Emergency Medicine,102,18,17.65
+DR0412,Provider_0412,Pediatrics,136,24,17.65
+DR0131,Provider_0131,Neurology,573,101,17.63
+DR0375,Provider_0375,Emergency Medicine,200,35,17.5
+DR0343,Provider_0343,Oncology,103,18,17.48
+DR0368,Provider_0368,Oncology,126,22,17.46
+DR0211,Provider_0211,Family Medicine,149,26,17.45
+DR0318,Provider_0318,Orthopedics,424,74,17.45
+DR0342,Provider_0342,Other,235,41,17.45
+DR0143,Provider_0143,Internal Medicine,115,20,17.39
+DR0224,Provider_0224,Emergency Medicine,253,44,17.39
+DR0271,Provider_0271,Emergency Medicine,208,36,17.31
+DR0215,Provider_0215,General Surgery,110,19,17.27
+DR0435,Provider_0435,Other,116,20,17.24
+DR0311,Provider_0311,Orthopedics,331,57,17.22
+DR0088,Provider_0088,Family Medicine,244,42,17.21
+DR0170,Provider_0170,Internal Medicine,250,43,17.2
+DR0354,Provider_0354,Family Medicine,291,50,17.18
+DR0263,Provider_0263,Orthopedics,475,81,17.05
+DR0305,Provider_0305,Emergency Medicine,176,30,17.05
+DR0185,Provider_0185,Emergency Medicine,141,24,17.02
+DR0027,Provider_0027,Other,288,49,17.01
+DR0173,Provider_0173,Family Medicine,435,74,17.01
+DR0025,Provider_0025,Emergency Medicine,206,35,16.99
+DR0446,Provider_0446,Family Medicine,165,28,16.97
+DR0248,Provider_0248,Family Medicine,118,20,16.95
+DR0031,Provider_0031,Oncology,486,82,16.87
+DR0202,Provider_0202,Internal Medicine,255,43,16.86
+DR0082,Provider_0082,Oncology,291,49,16.84
+DR0442,Provider_0442,Other,143,24,16.78
+DR0159,Provider_0159,Cardiology,221,37,16.74
+DR0209,Provider_0209,Emergency Medicine,646,108,16.72
+DR0060,Provider_0060,Pediatrics,144,24,16.67
+DR0077,Provider_0077,Internal Medicine,126,21,16.67
+DR0241,Provider_0241,Orthopedics,162,27,16.67
+DR0247,Provider_0247,Emergency Medicine,102,17,16.67
+DR0258,Provider_0258,Family Medicine,102,17,16.67
+DR0299,Provider_0299,Other,246,41,16.67
+DR0355,Provider_0355,Internal Medicine,120,20,16.67
+DR0431,Provider_0431,Internal Medicine,355,59,16.62
+DR0177,Provider_0177,Emergency Medicine,247,41,16.6
+DR0313,Provider_0313,Cardiology,157,26,16.56
+DR0428,Provider_0428,Internal Medicine,351,58,16.52
+DR0380,Provider_0380,Family Medicine,261,43,16.48
+DR0402,Provider_0402,Neurology,146,24,16.44
+DR0093,Provider_0093,Internal Medicine,396,65,16.41
+DR0367,Provider_0367,Family Medicine,128,21,16.41
+DR0264,Provider_0264,Internal Medicine,189,31,16.4
+DR0397,Provider_0397,Pediatrics,501,82,16.37
+DR0113,Provider_0113,Obstetrics & Gynecology,104,17,16.35
+DR0118,Provider_0118,Internal Medicine,104,17,16.35
+DR0389,Provider_0389,Emergency Medicine,104,17,16.35
+DR0153,Provider_0153,Orthopedics,178,29,16.29
+DR0163,Provider_0163,Orthopedics,264,43,16.29
+DR0386,Provider_0386,Family Medicine,1921,313,16.29
+DR0434,Provider_0434,Family Medicine,129,21,16.28
+DR0226,Provider_0226,Family Medicine,467,76,16.27
+DR0221,Provider_0221,General Surgery,167,27,16.17
+DR0301,Provider_0301,Cardiology,341,55,16.13
+DR0393,Provider_0393,Emergency Medicine,248,40,16.13
+DR0006,Provider_0006,Orthopedics,335,54,16.12
+DR0103,Provider_0103,Neurology,385,62,16.1
+DR0079,Provider_0079,Internal Medicine,237,38,16.03
+DR0410,Provider_0410,Cardiology,231,37,16.02
+DR0183,Provider_0183,Other,350,56,16.0
+DR0216,Provider_0216,Radiology,225,36,16.0
+DR0251,Provider_0251,Internal Medicine,288,46,15.97
+DR0244,Provider_0244,Emergency Medicine,257,41,15.95
+DR0046,Provider_0046,Emergency Medicine,157,25,15.92
+DR0242,Provider_0242,General Surgery,823,131,15.92
+DR0325,Provider_0325,Other,308,49,15.91
+DR0089,Provider_0089,Pediatrics,335,53,15.82
+DR0112,Provider_0112,Internal Medicine,740,117,15.81
+DR0345,Provider_0345,Internal Medicine,114,18,15.79
+DR0102,Provider_0102,Oncology,242,38,15.7
+DR0253,Provider_0253,Obstetrics & Gynecology,134,21,15.67
+DR0160,Provider_0160,Family Medicine,326,51,15.64
+DR0282,Provider_0282,Family Medicine,672,105,15.63
+DR0312,Provider_0312,Oncology,224,35,15.63
+DR0288,Provider_0288,Cardiology,365,57,15.62
+DR0336,Provider_0336,Family Medicine,519,81,15.61
+DR0156,Provider_0156,Internal Medicine,186,29,15.59
+DR0186,Provider_0186,Obstetrics & Gynecology,437,68,15.56
+DR0300,Provider_0300,Cardiology,238,37,15.55
+DR0261,Provider_0261,Internal Medicine,174,27,15.52
+DR0081,Provider_0081,Internal Medicine,761,118,15.51
+DR0220,Provider_0220,Radiology,187,29,15.51
+DR0175,Provider_0175,Internal Medicine,200,31,15.5
+DR0139,Provider_0139,Internal Medicine,278,43,15.47
+DR0018,Provider_0018,Emergency Medicine,136,21,15.44
+DR0014,Provider_0014,Other,190,29,15.26
+DR0409,Provider_0409,Emergency Medicine,217,33,15.21
+DR0302,Provider_0302,Internal Medicine,487,74,15.2
+DR0433,Provider_0433,Other,171,26,15.2
+DR0259,Provider_0259,Orthopedics,191,29,15.18
+DR0404,Provider_0404,Orthopedics,626,95,15.18
+DR0240,Provider_0240,Pediatrics,899,136,15.13
+DR0086,Provider_0086,Radiology,139,21,15.11
+DR0416,Provider_0416,Orthopedics,444,67,15.09
+DR0084,Provider_0084,Family Medicine,292,44,15.07
+DR0290,Provider_0290,Radiology,140,21,15.0
+DR0161,Provider_0161,Family Medicine,248,37,14.92
+DR0201,Provider_0201,Orthopedics,248,37,14.92
+DR0233,Provider_0233,Other,101,15,14.85
+DR0107,Provider_0107,Cardiology,256,38,14.84
+DR0009,Provider_0009,Obstetrics & Gynecology,236,35,14.83
+DR0198,Provider_0198,Pediatrics,115,17,14.78
+DR0363,Provider_0363,Internal Medicine,379,56,14.78
+DR0407,Provider_0407,Internal Medicine,291,43,14.78
+DR0437,Provider_0437,Other,292,43,14.73
+DR0007,Provider_0007,Pediatrics,102,15,14.71
+DR0029,Provider_0029,Obstetrics & Gynecology,136,20,14.71
+DR0145,Provider_0145,Emergency Medicine,150,22,14.67
+DR0158,Provider_0158,Family Medicine,191,28,14.66
+DR0126,Provider_0126,Emergency Medicine,246,36,14.63
+DR0450,Provider_0450,Cardiology,130,19,14.62
+DR0021,Provider_0021,Emergency Medicine,261,38,14.56
+DR0061,Provider_0061,Family Medicine,103,15,14.56
+DR0070,Provider_0070,Emergency Medicine,275,40,14.55
+DR0443,Provider_0443,Family Medicine,433,63,14.55
+DR0249,Provider_0249,Family Medicine,145,21,14.48
+DR0332,Provider_0332,Cardiology,506,73,14.43
+DR0438,Provider_0438,Emergency Medicine,292,42,14.38
+DR0040,Provider_0040,Other,105,15,14.29
+DR0114,Provider_0114,Radiology,140,20,14.29
+DR0352,Provider_0352,Orthopedics,238,34,14.29
+DR0035,Provider_0035,Other,1552,221,14.24
+DR0038,Provider_0038,Family Medicine,239,34,14.23
+DR0144,Provider_0144,Cardiology,232,33,14.22
+DR0229,Provider_0229,Emergency Medicine,374,53,14.17
+DR0028,Provider_0028,Pediatrics,177,25,14.12
+DR0104,Provider_0104,Internal Medicine,177,25,14.12
+DR0013,Provider_0013,Oncology,248,35,14.11
+DR0152,Provider_0152,Other,149,21,14.09
+DR0191,Provider_0191,Family Medicine,250,35,14.0
+DR0026,Provider_0026,Family Medicine,193,27,13.99
+DR0032,Provider_0032,Neurology,143,20,13.99
+DR0068,Provider_0068,Emergency Medicine,236,33,13.98
+DR0128,Provider_0128,Emergency Medicine,136,19,13.97
+DR0262,Provider_0262,Emergency Medicine,122,17,13.93
+DR0344,Provider_0344,Internal Medicine,181,25,13.81
+DR0372,Provider_0372,Emergency Medicine,695,95,13.67
+DR0337,Provider_0337,Family Medicine,425,58,13.65
+DR0083,Provider_0083,Internal Medicine,242,33,13.64
+DR0188,Provider_0188,Orthopedics,110,15,13.64
+DR0057,Provider_0057,Emergency Medicine,177,24,13.56
+DR0003,Provider_0003,Emergency Medicine,406,55,13.55
+DR0232,Provider_0232,Family Medicine,126,17,13.49
+DR0108,Provider_0108,Pediatrics,156,21,13.46
+DR0045,Provider_0045,Family Medicine,119,16,13.45
+DR0187,Provider_0187,Other,231,31,13.42
+DR0398,Provider_0398,Internal Medicine,127,17,13.39
+DR0331,Provider_0331,Cardiology,292,39,13.36
+DR0111,Provider_0111,Emergency Medicine,180,24,13.33
+DR0137,Provider_0137,Emergency Medicine,195,26,13.33
+DR0034,Provider_0034,Radiology,197,26,13.2
+DR0269,Provider_0269,Other,289,38,13.15
+DR0147,Provider_0147,Internal Medicine,153,20,13.07
+DR0228,Provider_0228,Internal Medicine,199,26,13.07
+DR0265,Provider_0265,Cardiology,498,65,13.05
+DR0324,Provider_0324,Oncology,100,13,13.0
+DR0376,Provider_0376,Orthopedics,177,23,12.99
+DR0214,Provider_0214,Pediatrics,139,18,12.95
+DR0250,Provider_0250,Orthopedics,163,21,12.88
+DR0048,Provider_0048,Family Medicine,218,28,12.84
+DR0381,Provider_0381,Other,218,28,12.84
+DR0350,Provider_0350,General Surgery,102,13,12.75
+DR0227,Provider_0227,Emergency Medicine,157,20,12.74
+DR0361,Provider_0361,Neurology,142,18,12.68
+DR0419,Provider_0419,Orthopedics,308,39,12.66
+DR0415,Provider_0415,Radiology,127,16,12.6
+DR0157,Provider_0157,Internal Medicine,104,13,12.5
+DR0267,Provider_0267,Oncology,200,25,12.5
+DR0374,Provider_0374,General Surgery,479,59,12.32
+DR0042,Provider_0042,Pediatrics,106,13,12.26
+DR0085,Provider_0085,Obstetrics & Gynecology,229,28,12.23
+DR0110,Provider_0110,Internal Medicine,115,14,12.17
+DR0166,Provider_0166,Cardiology,125,15,12.0
+DR0275,Provider_0275,Internal Medicine,184,22,11.96
+DR0218,Provider_0218,General Surgery,134,16,11.94
+DR0135,Provider_0135,Other,143,17,11.89
+DR0141,Provider_0141,Other,110,13,11.82
+DR0401,Provider_0401,Emergency Medicine,144,17,11.81
+DR0078,Provider_0078,Other,188,22,11.7
+DR0303,Provider_0303,Family Medicine,248,29,11.69
+DR0066,Provider_0066,Internal Medicine,215,25,11.63
+DR0023,Provider_0023,Radiology,124,14,11.29
+DR0180,Provider_0180,Pediatrics,136,15,11.03
+DR0439,Provider_0439,Emergency Medicine,132,14,10.61
+DR0278,Provider_0278,Emergency Medicine,115,12,10.43
+DR0058,Provider_0058,Internal Medicine,101,10,9.9
+DR0291,Provider_0291,Other,226,21,9.29
+DR0200,Provider_0200,Other,108,10,9.26
+DR0314,Provider_0314,Orthopedics,101,8,7.92

@@ -1,0 +1,26 @@
+Facility_ID,Facility_Name,Facility_Type,Facility_Size,Region
+F001,Facility_001,Hospital,Large,South
+F002,Facility_002,Ambulatory Center,Large,Midwest
+F003,Facility_003,Clinic,Small,Midwest
+F004,Facility_004,Clinic,Medium,South
+F005,Facility_005,Ambulatory Center,Small,Midwest
+F006,Facility_006,Hospital,Small,South
+F007,Facility_007,Hospital,Large,South
+F008,Facility_008,Hospital,Small,Midwest
+F009,Facility_009,Hospital,Small,Midwest
+F010,Facility_010,Hospital,Medium,South
+F011,Facility_011,Hospital,Large,Midwest
+F012,Facility_012,Ambulatory Center,Medium,Midwest
+F013,Facility_013,Hospital,Large,South
+F014,Facility_014,Hospital,Small,Northeast
+F015,Facility_015,Hospital,Small,West
+F016,Facility_016,Hospital,Small,Northeast
+F017,Facility_017,Hospital,Medium,South
+F018,Facility_018,Specialty Center,Large,West
+F019,Facility_019,Ambulatory Center,Medium,West
+F020,Facility_020,Hospital,Large,South
+F021,Facility_021,Ambulatory Center,Small,West
+F022,Facility_022,Hospital,Large,South
+F023,Facility_023,Clinic,Medium,South
+F024,Facility_024,Ambulatory Center,Medium,Northeast
+F025,Facility_025,Hospital,Small,South

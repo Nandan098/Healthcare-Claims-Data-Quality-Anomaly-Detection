@@ -1,0 +1,37 @@
+Analysis_No,Analysis_Name,Result_Rows,Result_File,Description
+1,01_overall_kpis,1,01_01_overall_kpis.csv,Executive-level volume and financial KPIs.
+2,02_monthly_trend,43,02_02_monthly_trend.csv,"Monthly claims, patients and financial trend."
+3,03_mom_growth,43,03_03_mom_growth.csv,Month-over-month claim growth using LAG.
+4,04_payer_performance,7,04_04_payer_performance.csv,"Payer volume, financials and denial/rejection rate."
+5,05_status_mix,5,05_05_status_mix.csv,Claim status distribution and share.
+6,06_claim_type_mix,3,06_06_claim_type_mix.csv,Professional/outpatient/inpatient mix.
+7,07_specialty_summary,12,07_07_specialty_summary.csv,Specialty-level utilization and financial performance.
+8,08_top_providers_volume,20,08_08_top_providers_volume.csv,Top providers by claim volume.
+9,09_provider_financial_intensity,403,09_09_provider_financial_intensity.csv,Provider average claim and payment performance.
+10,10_facility_performance,25,10_10_facility_performance.csv,"Facility-level claims, patients and financials."
+11,11_facility_type,4,11_11_facility_type.csv,Facility-type comparison.
+12,12_diagnosis_mix,25,12_12_diagnosis_mix.csv,Diagnosis prevalence and billed amount.
+13,13_procedure_mix,25,13_13_procedure_mix.csv,Procedure mix and financials.
+14,14_payer_status_matrix,35,14_14_payer_status_matrix.csv,Payer-by-status composition using window functions.
+15,15_denial_rate_by_payer,7,15_15_denial_rate_by_payer.csv,Denial/rejection rate by payer.
+16,16_p99_high_value,752,16_16_p99_high_value.csv,Approximate P99 high-value claim screening.
+17,17_provider_weekly_volume,37287,17_17_provider_weekly_volume.csv,Provider weekly utilization baseline.
+18,18_provider_vs_specialty_volume,403,18_18_provider_vs_specialty_volume.csv,Provider volume compared with specialty peer mean.
+19,19_provider_denial_rate,257,19_19_provider_denial_rate.csv,Provider denial/rejection benchmarking.
+20,20_procedure_concentration,6365,20_20_procedure_concentration.csv,Provider concentration by primary procedure.
+21,21_duplicate_claim_ids,25,21_21_duplicate_claim_ids.csv,Duplicate claim ID detection.
+22,22_duplicate_patient_provider_procedure_date,25,22_22_duplicate_patient_provider_procedure_date.csv,Repeated patient/provider/procedure/date pattern.
+23,23_financial_exceptions,1,23_23_financial_exceptions.csv,Paid amount greater than allowed amount.
+24,24_missing_provider_by_payer,17,24_24_missing_provider_by_payer.csv,Missing provider attribution by payer/type.
+25,25_claim_line_completeness,1,25_25_claim_line_completeness.csv,Claim-line diagnosis completeness.
+26,26_submission_lag_by_month,43,26_26_submission_lag_by_month.csv,Monthly submission lag and late claims.
+27,27_long_submission_lag,0,27_27_long_submission_lag.csv,Long-lag claim detail.
+28,28_patient_utilization_buckets,5,28_28_patient_utilization_buckets.csv,Patient utilization distribution.
+29,29_high_utilization_patients,100,29_29_high_utilization_patients.csv,High-utilizer patient review table.
+30,30_header_line_reconciliation,100,30_30_header_line_reconciliation.csv,Claim-header vs line-level reconciliation.
+31,31_provider_avg_vs_specialty,257,31_31_provider_avg_vs_specialty.csv,Provider average claim vs specialty benchmark.
+32,32_payer_claim_type_payment,21,32_32_payer_claim_type_payment.csv,Payment efficiency by payer and claim type.
+33,33_facility_month_spikes,100,33_33_facility_month_spikes.csv,Facility-month volume spike screening.
+34,34_member_responsibility,7,34_34_member_responsibility.csv,Member responsibility by payer.
+35,35_month_status_mix,179,35_35_month_status_mix.csv,Monthly status composition.
+36,36_top_diagnoses_by_specialty,36,36_36_top_diagnoses_by_specialty.csv,Top diagnoses within each specialty using ROW_NUMBER.

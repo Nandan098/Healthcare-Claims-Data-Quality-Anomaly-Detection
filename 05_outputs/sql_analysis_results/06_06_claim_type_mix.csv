@@ -1,0 +1,4 @@
+Claim_Type,claims,patients,avg_claim_amount,billed,paid
+Professional,43387,16210,528.41,22926269.04,12894006.88
+Outpatient,20069,11536,528.44,10605290.68,6161535.13
+Inpatient,11569,8211,874.82,10120836.66,5663911.87

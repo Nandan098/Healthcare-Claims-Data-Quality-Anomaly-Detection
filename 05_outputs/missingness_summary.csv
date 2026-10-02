@@ -1,0 +1,17 @@
+Field,Missing_Count
+Claim_ID,0
+Patient_ID,0
+Service_Date,0
+Submission_Date,0
+Provider_ID,0
+Facility_ID,0
+Payer,0
+Claim_Type,0
+Claim_Status,0
+Diagnosis_Code,0
+Primary_Procedure_Code,0
+Claim_Amount,0
+Allowed_Amount,0
+Paid_Amount,0
+Member_Responsibility,0
+Quality_Issue,0

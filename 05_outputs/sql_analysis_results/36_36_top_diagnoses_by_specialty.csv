@@ -1,0 +1,37 @@
+Specialty,Diagnosis_Code,Diagnosis_Name,claims,rn
+Cardiology,DX007,Coronary Artery Disease,1182,1
+Cardiology,DX001,Essential Hypertension,1161,2
+Cardiology,DX008,Heart Failure,1143,3
+Emergency Medicine,DX025,Other Condition,1543,1
+Emergency Medicine,DX003,Upper Respiratory Infection,1417,2
+Emergency Medicine,DX014,Fracture/Injury,1324,3
+Family Medicine,DX001,Essential Hypertension,1441,1
+Family Medicine,DX025,Other Condition,1437,2
+Family Medicine,DX002,Type 2 Diabetes,1354,3
+General Surgery,DX025,Other Condition,808,1
+General Surgery,DX014,Fracture/Injury,761,2
+General Surgery,DX015,Abdominal Pain,712,3
+Internal Medicine,DX025,Other Condition,1808,1
+Internal Medicine,DX001,Essential Hypertension,1798,2
+Internal Medicine,DX002,Type 2 Diabetes,1718,3
+Neurology,DX012,Anxiety Disorder,504,1
+Neurology,DX011,Depression,485,2
+Neurology,DX023,Migraine,459,3
+Obstetrics & Gynecology,DX001,Essential Hypertension,774,1
+Obstetrics & Gynecology,DX025,Other Condition,737,2
+Obstetrics & Gynecology,DX018,Pregnancy-Related,696,3
+Oncology,DX025,Other Condition,1436,1
+Oncology,DX017,Cancer - Active Treatment,1387,2
+Oncology,DX001,Essential Hypertension,74,3
+Orthopedics,DX006,Osteoarthritis,1578,1
+Orthopedics,DX005,Low Back Pain,1570,2
+Orthopedics,DX014,Fracture/Injury,1542,3
+Other,DX001,Essential Hypertension,465,1
+Other,DX003,Upper Respiratory Infection,428,2
+Other,DX025,Other Condition,428,3
+Pediatrics,DX025,Other Condition,1069,1
+Pediatrics,DX021,Skin Infection,995,2
+Pediatrics,DX003,Upper Respiratory Infection,989,3
+Radiology,DX025,Other Condition,179,1
+Radiology,DX001,Essential Hypertension,161,2
+Radiology,DX003,Upper Respiratory Infection,147,3

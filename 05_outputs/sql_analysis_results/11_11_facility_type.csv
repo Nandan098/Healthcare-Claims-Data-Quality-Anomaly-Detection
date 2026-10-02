@@ -1,0 +1,5 @@
+Facility_Type,claims,avg_claim_amount,billed,paid
+Hospital,47126,604.78,28500899.29,16149800.65
+Ambulatory Center,18947,540.27,10236428.59,5780451.63
+Clinic,7255,568.08,4121402.8,2340673.53
+Specialty Center,1697,467.69,793665.7,448528.07

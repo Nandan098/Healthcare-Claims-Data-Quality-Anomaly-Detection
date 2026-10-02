@@ -1,0 +1,10 @@
+Check,Count
+Duplicate Claim_ID rows,50
+Missing Provider_ID,144
+Missing Claim diagnosis,0
+Missing Claim-line diagnosis,91
+Paid > Allowed,41
+Negative Claim Amount,0
+Negative Paid Amount,0
+Submission before Service,28
+Service date outside study window,15

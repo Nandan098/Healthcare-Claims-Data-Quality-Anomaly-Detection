@@ -1,0 +1,22 @@
+Payer,Claim_Type,claims,avg_allowed,avg_paid,payment_rate_pct
+Commercial,Outpatient,5698,445.33,317.09,71.21
+Commercial,Professional,12381,428.56,293.89,68.58
+Commercial,Inpatient,3359,695.44,473.5,68.09
+Medicaid,Outpatient,3335,443.94,308.11,69.4
+Medicaid,Professional,7035,432.48,292.94,67.74
+Medicaid,Inpatient,1809,740.1,478.5,64.65
+Medicare,Outpatient,6271,437.94,300.51,68.62
+Medicare,Professional,13444,451.25,304.04,67.38
+Medicare,Inpatient,3599,733.14,491.68,67.06
+Medicare Advantage,Outpatient,2618,450.27,312.19,69.34
+Medicare Advantage,Inpatient,1559,751.19,507.03,67.5
+Medicare Advantage,Professional,5810,449.05,290.92,64.79
+Other,Professional,903,478.06,317.75,66.47
+Other,Outpatient,423,470.21,289.08,61.48
+Other,Inpatient,237,954.72,552.61,57.88
+Self-Pay,Outpatient,1364,395.89,279.24,70.54
+Self-Pay,Professional,3006,436.41,298.63,68.43
+Self-Pay,Inpatient,780,834.38,570.13,68.33
+Workers Comp,Outpatient,360,477.58,339.42,71.07
+Workers Comp,Professional,808,437.54,287.37,65.68
+Workers Comp,Inpatient,226,514.68,319.22,62.02

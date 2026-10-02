@@ -1,0 +1,16 @@
+{
+  "patients": 20000,
+  "generated_claims": 75000,
+  "raw_claim_rows": 75025,
+  "claim_lines": 123343,
+  "providers": 450,
+  "facilities": 25,
+  "diagnosis_codes": 25,
+  "procedure_codes": 25,
+  "study_start": "2024-01-01",
+  "study_end": "2026-09-30",
+  "p95_claim_amount": 2126.55,
+  "p99_claim_amount": 7664.399199999971,
+  "duplicate_claim_rows": 25,
+  "truth_anomaly_records": 334
+}

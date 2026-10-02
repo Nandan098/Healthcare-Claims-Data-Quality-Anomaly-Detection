@@ -1,0 +1,26 @@
+Procedure_Code,Procedure_Name,Procedure_Group,claims,avg_claim_amount,billed,paid
+PR003,Routine Lab Panel,Diagnostic,10829,61.67,667846.39,382029.15
+PR006,X-Ray,Diagnostic,9955,98.9,984552.46,552779.74
+PR020,Specialist Consultation,Professional,9845,335.93,3307219.08,1867032.0
+PR001,Office/Follow-up Visit,Professional,9399,242.93,2283309.82,1295523.29
+PR025,Other Clinical Service,Other,6362,157.52,1002165.05,558594.53
+PR008,Physical Therapy Session,Therapy,4051,147.37,596991.56,338827.46
+PR002,Emergency Department Visit,Emergency,3108,711.9,2212598.08,1263416.46
+PR015,Major Surgery,Surgery,1848,7529.61,13914713.49,7853549.03
+PR023,Ambulance Transport,Emergency,1822,1029.45,1875665.63,1081421.17
+PR007,Ultrasound,Diagnostic,1732,216.98,375814.93,213781.06
+PR005,MRI,Diagnostic,1624,1359.17,2207296.15,1253226.25
+PR009,Joint Injection,Procedure,1540,348.99,537452.01,297147.53
+PR012,Echocardiogram,Diagnostic,1456,569.45,829121.62,466554.52
+PR004,Advanced Imaging - CT,Diagnostic,1377,852.43,1173793.19,659705.75
+PR011,Cardiac Stress Test,Diagnostic,1348,595.57,802834.94,450692.78
+PR021,Behavioral Health Session,Behavioral,1324,233.65,309347.88,175879.99
+PR016,Inpatient Daily Care,Inpatient,1219,924.1,1126478.47,633536.0
+PR017,Chemotherapy Administration,Oncology,1157,1280.5,1481538.85,859316.87
+PR018,Radiation Therapy,Oncology,1113,989.49,1101305.68,615117.39
+PR019,Maternity Delivery,Obstetric,1024,3213.93,3291068.14,1885455.72
+PR010,Colonoscopy,Procedure,944,2092.07,1974911.75,1102406.41
+PR014,Minor Skin Procedure,Procedure,600,241.38,144825.58,80265.77
+PR024,Home Health Visit,Home Health,478,177.62,84903.67,47976.48
+PR022,Dialysis Session,Chronic Care,471,606.59,285704.44,162649.87
+PR013,Cataract Procedure,Surgery,399,2709.12,1080937.52,622568.66
